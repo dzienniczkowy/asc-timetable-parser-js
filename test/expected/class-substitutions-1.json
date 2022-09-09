@@ -1,0 +1,1472 @@
+{
+  "date": "2022-09-12",
+  "absentClasses": [
+    {
+      "name": "1A",
+      "lessons": null
+    },
+    {
+      "name": "1E",
+      "lessons": null
+    },
+    {
+      "name": "2C",
+      "lessons": {
+        "first": 0,
+        "last": 4
+      }
+    }
+  ],
+  "absentTeachers": [
+    {
+      "name": "Szczygieł Robert",
+      "lessons": null
+    },
+    {
+      "name": "Kalinowski Gracja",
+      "lessons": null
+    },
+    {
+      "name": "Jakubiak Florencja",
+      "lessons": null
+    },
+    {
+      "name": "Wypych Walerian",
+      "lessons": null
+    },
+    {
+      "name": "Rybarczyk Kalistrat",
+      "lessons": null
+    },
+    {
+      "name": "Biernacki Bazyli",
+      "lessons": null
+    }
+  ],
+  "sections": [
+    {
+      "name": "1A",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "1D",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "1E",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "1F",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "2A",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "2D",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "2E",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "2F",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "2G",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "3A",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "3B",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "3C",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "3E",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "3F",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "3G",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "4H",
+      "changes": [
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 7
+          },
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+        }
+      ]
+    }
+  ]
+}

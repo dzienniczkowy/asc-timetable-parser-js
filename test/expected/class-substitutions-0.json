@@ -1,0 +1,458 @@
+{
+  "date": "2022-09-08",
+  "absentClasses": [],
+  "absentTeachers": [
+    {
+      "name": "Dąbrowski Wawrzyniec",
+      "lessons": {
+        "first": 0,
+        "last": 4
+      }
+    },
+    {
+      "name": "Adamski Bolek",
+      "lessons": null
+    },
+    {
+      "name": "Szczepańska Wiesława",
+      "lessons": {
+        "first": 3,
+        "last": 3
+      }
+    }
+  ],
+  "sections": [
+    {
+      "name": "1A",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "1D",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "1E",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "1F",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "2F",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "3A",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "4D",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    },
+    {
+      "name": "4G",
+      "changes": [
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+        }
+      ]
+    }
+  ]
+}
