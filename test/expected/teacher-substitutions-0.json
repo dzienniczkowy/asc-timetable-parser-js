@@ -11,25 +11,133 @@
             "first": 2,
             "last": 2
           },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
+          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "Czekaj Janusz",
-      "changes": []
+      "changes": [
+        {
+          "lessons": null,
+          "info": "Absent",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 0,
+            "last": 0
+          },
+          "info": "3H informatyka_2: informatyka - Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 1,
+            "last": 1
+          },
+          "info": "2F informatyka_2: informatyka - Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "2A informatyka_2: informatyka - Substituting: Kostrzewa Bazyli, zł. grup",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "Nowacki Arnold",
-      "changes": []
+      "changes": [
+        {
+          "lessons": null,
+          "info": "Absent",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 0,
+            "last": 0
+          },
+          "info": "2G: biologia - Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 1,
+            "last": 1
+          },
+          "info": "1E: biologia - Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "1B: biologia - Substituting: Florczak Apollo",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "3G: biologia - Substituting: Napierała Kazimierz",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "Białek Archibald",
-      "changes": []
+      "changes": [
+        {
+          "lessons": null,
+          "info": "Absent",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 0,
+            "last": 1
+          },
+          "info": "3D fizyka_2: fizyka-grupa-2 - Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "Karwowski Renata",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 0,
+            "last": 3
+          },
+          "info": "Absent",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "3D: historia - Substituting: Kołodziej Władysław",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "2B: historia - Substituting: Zwoliński Onufry",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "Zwoliński Onufry",
@@ -39,13 +147,76 @@
             "first": 3,
             "last": 3
           },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
+          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "Tomczak Agnieszka",
-      "changes": []
+      "changes": [
+        {
+          "lessons": null,
+          "info": "Absent",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 0,
+            "last": 0
+          },
+          "info": "3E informatyka_2: informatyka - Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 1,
+            "last": 1
+          },
+          "info": "2E grupa1: informatyka - Substituting: Wolak Władysław, zł. grup",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "2E grupa2: informatyka - Substituting: Wolak Władysław, zł. grup",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 4
+          },
+          "info": "2G informatyka_2: informatyka - Substituting: Krysiak Cezary, zł. grup",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 5
+          },
+          "info": "3G informatyka_2: informatyka - Substituting: Krysiak Cezary, zł. grup",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 6,
+            "last": 6
+          },
+          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substituting: Bożek Laurentyna, lekcja przeniesiona z godziny 9.00",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 7,
+            "last": 8
+          },
+          "info": "3E informatyka_2: informatyka - Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "Napierała Kazimierz",
@@ -55,7 +226,8 @@
             "first": 4,
             "last": 4
           },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
+          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19",
+          "cancelled": false
         }
       ]
     },
@@ -67,7 +239,8 @@
             "first": 6,
             "last": 6
           },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
+          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00",
+          "cancelled": false
         }
       ]
     },
@@ -79,7 +252,8 @@
             "first": 3,
             "last": 3
           },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
+          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19",
+          "cancelled": false
         }
       ]
     },
@@ -91,7 +265,8 @@
             "first": 2,
             "last": 2
           },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
+          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup",
+          "cancelled": false
         }
       ]
     },
@@ -103,20 +278,28 @@
             "first": 3,
             "last": 4
           },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
+          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup",
+          "cancelled": false
         },
         {
           "lessons": {
             "first": 5,
             "last": 5
           },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
+          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "Herman Olga",
-      "changes": []
+      "changes": [
+        {
+          "lessons": null,
+          "info": "Absent",
+          "cancelled": false
+        }
+      ]
     },
     {
       "name": "Wolak Władysław",
@@ -126,14 +309,16 @@
             "first": 1,
             "last": 1
           },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
+          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup",
+          "cancelled": false
         },
         {
           "lessons": {
             "first": 2,
             "last": 2
           },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
+          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup",
+          "cancelled": false
         }
       ]
     }

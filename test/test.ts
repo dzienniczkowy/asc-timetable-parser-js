@@ -7,14 +7,14 @@ import { expect } from 'chai';
 describe('Substitutions', () => {
     ['class-substitutions-0', 'class-substitutions-1', 'teacher-substitutions-0'].forEach((key) => {
         test(`Parse substitutions ${key}`, () => {
-            const classSubstitutionJson = fs.readFileSync(path.join(__dirname, 'fixtures', `${key}.json`), {
+            const inputJson = fs.readFileSync(path.join(__dirname, 'fixtures', `${key}.json`), {
                 encoding: 'utf8',
             });
             const expectedResultJson = fs.readFileSync(path.join(__dirname, 'expected', `${key}.json`), {
                 encoding: 'utf8',
             });
 
-            const substitutions = parseSubstitutions(classSubstitutionJson);
+            const substitutions = parseSubstitutions(inputJson);
             expect(substitutions).to.deep.equal(JSON.parse(expectedResultJson));
         });
     });

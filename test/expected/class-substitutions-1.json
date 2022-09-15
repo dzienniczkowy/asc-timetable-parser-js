@@ -46,7 +46,37 @@
   "sections": [
     {
       "name": "1A",
-      "changes": []
+      "changes": [
+        {
+          "lessons": null,
+          "info": "Absent",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "historia i teraźniejszość - Jędrzejczyk Krystian, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 4,
+            "last": 4
+          },
+          "info": "matematyka - Bielski Hilary, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 6
+          },
+          "info": "język polski - Pietruszka Dawid, Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "1D",
@@ -56,23 +86,79 @@
             "first": 4,
             "last": 4
           },
-          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi"
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Guzik Noemi",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "1E",
-      "changes": []
+      "changes": [
+        {
+          "lessons": null,
+          "info": "Absent",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 1,
+            "last": 2
+          },
+          "info": "uniwersytecki fakultet matematuczny - Gawron Atanazy, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 4
+          },
+          "info": "algorytmika_1: algorytmika - Łuczak Dina, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 3,
+            "last": 4
+          },
+          "info": "informatyka_2: informatyka - Jakubiak Florencja, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 6
+          },
+          "info": "informatyka_1: informatyka - Jakubiak Florencja, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 5,
+            "last": 6
+          },
+          "info": "algorytmika_2: algorytmika - Łuczak Dina, Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "1F",
       "changes": [
         {
           "lessons": {
+            "first": 3,
+            "last": 3
+          },
+          "info": "język polski - Biernacki Bazyli, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
             "first": 4,
             "last": 4
           },
-          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję"
+          "info": "(język polski) ➔ historia - Substitution: (Biernacki Bazyli) ➔ Polak Apollinary, za drugą lekcję",
+          "cancelled": false
         }
       ]
     },
@@ -84,7 +170,8 @@
             "first": 2,
             "last": 2
           },
-          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup"
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Turek Laura, zł. grup",
+          "cancelled": false
         }
       ]
     },
@@ -96,13 +183,23 @@
             "first": 7,
             "last": 7
           },
-          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup"
+          "info": "biologia - Substitution: (Kalinowski Gracja) ➔ Polak Apollinary, zł. grup",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "2E",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 8,
+            "last": 8
+          },
+          "info": "grupa1: informatyka - Jakubiak Florencja, Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "2F",
@@ -112,7 +209,8 @@
             "first": 2,
             "last": 2
           },
-          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy"
+          "info": "język polski - Substitution: (Biernacki Bazyli) ➔ Jurkiewicz Dionizy",
+          "cancelled": false
         }
       ]
     },
@@ -124,7 +222,16 @@
             "first": 3,
             "last": 3
           },
-          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan"
+          "info": "matematyka - Substitution: (Wypych Walerian) ➔ Słowiński Szczepan",
+          "cancelled": false
+        },
+        {
+          "lessons": {
+            "first": 8,
+            "last": 8
+          },
+          "info": "biologia - Kalinowski Gracja, Cancelled",
+          "cancelled": true
         }
       ]
     },
@@ -133,16 +240,34 @@
       "changes": [
         {
           "lessons": {
+            "first": 1,
+            "last": 2
+          },
+          "info": "religia - Rybarczyk Kalistrat, Cancelled",
+          "cancelled": true
+        },
+        {
+          "lessons": {
             "first": 6,
             "last": 6
           },
-          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf"
+          "info": "(biologia) ➔ fizyka - Substitution: (Kalinowski Gracja) ➔ Kulik Olaf",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "3B",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 1,
+            "last": 2
+          },
+          "info": "religia - Rybarczyk Kalistrat, Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "3C",
@@ -152,20 +277,39 @@
             "first": 3,
             "last": 3
           },
-          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz"
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Jurek Arseniusz",
+          "cancelled": false
         },
         {
           "lessons": {
             "first": 5,
             "last": 5
           },
-          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział"
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Pietruszka Dawid, za nieobecny oddział",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "3E",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 1,
+            "last": 1
+          },
+          "info": "matematyka - Wypych Walerian, Cancelled, historia odwołana",
+          "cancelled": true
+        },
+        {
+          "lessons": {
+            "first": 2,
+            "last": 2
+          },
+          "info": "matematyka - Wypych Walerian, Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "3F",
@@ -175,14 +319,16 @@
             "first": 6,
             "last": 6
           },
-          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra"
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wójcik Aleksandra",
+          "cancelled": false
         },
         {
           "lessons": {
             "first": 7,
             "last": 7
           },
-          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup"
+          "info": "historia - Substitution: (Szczygieł Robert) ➔ Wysocki Harald, zł. grup",
+          "cancelled": false
         }
       ]
     },
@@ -194,13 +340,23 @@
             "first": 7,
             "last": 7
           },
-          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup"
+          "info": "religia - Substitution: (Rybarczyk Kalistrat) ➔ Pietruszka Dawid, zł. grup",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "4H",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 1,
+            "last": 1
+          },
+          "info": "historia - Szczygieł Robert, Cancelled, grupa z bilogii o 7.10- czytelnia",
+          "cancelled": true
+        }
+      ]
     }
   ]
 }

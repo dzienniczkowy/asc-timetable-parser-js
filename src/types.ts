@@ -8,14 +8,15 @@ export interface Absence {
   lessons: LessonRange | null;
 }
 
-export interface Change {
+export interface Substitution {
   lessons: LessonRange | null;
   info: string;
+  cancelled: boolean;
 }
 
 export interface SubstitutionSection {
   name: string;
-  changes: Change[];
+  changes: Substitution[];
 }
 export interface Substitutions {
   date: string;
