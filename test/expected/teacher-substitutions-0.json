@@ -12,594 +12,50 @@
             "last": 2
           },
           "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
         }
       ]
     },
     {
       "name": "Czekaj Janusz",
-      "changes": [
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        }
-      ]
+      "changes": []
     },
     {
       "name": "Nowacki Arnold",
-      "changes": [
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        }
-      ]
+      "changes": []
     },
     {
       "name": "Białek Archibald",
-      "changes": [
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        }
-      ]
+      "changes": []
     },
     {
       "name": "Karwowski Renata",
-      "changes": [
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        }
-      ]
+      "changes": []
     },
     {
       "name": "Zwoliński Onufry",
       "changes": [
         {
           "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
             "first": 3,
             "last": 3
           },
           "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
         }
       ]
     },
     {
       "name": "Tomczak Agnieszka",
-      "changes": [
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        }
-      ]
+      "changes": []
     },
     {
       "name": "Napierała Kazimierz",
       "changes": [
         {
           "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
             "first": 4,
             "last": 4
           },
           "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
         }
       ]
     },
@@ -608,73 +64,10 @@
       "changes": [
         {
           "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
             "first": 6,
             "last": 6
           },
           "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
         }
       ]
     },
@@ -683,73 +76,10 @@
       "changes": [
         {
           "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
             "first": 3,
             "last": 3
           },
           "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
         }
       ]
     },
@@ -761,70 +91,7 @@
             "first": 2,
             "last": 2
           },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
           "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
         }
       ]
     },
@@ -833,48 +100,6 @@
       "changes": [
         {
           "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
             "first": 3,
             "last": 4
           },
@@ -886,157 +111,16 @@
             "last": 5
           },
           "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
         }
       ]
     },
     {
       "name": "Herman Olga",
-      "changes": [
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 1,
-            "last": 1
-          },
-          "info": "2E grupa1: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2E grupa2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        }
-      ]
+      "changes": []
     },
     {
       "name": "Wolak Władysław",
       "changes": [
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "3D: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "2B: historia - Substitution for: Karwowski Renata, Classroom: 29"
-        },
-        {
-          "lessons": {
-            "first": 4,
-            "last": 4
-          },
-          "info": "3G: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 6,
-            "last": 6
-          },
-          "info": "1E: (zajęcia z wychowawcą) ➔ fizyka - Substitution for: Tomczak Agnieszka, Classroom: 18, lekcja przeniesiona z godziny 9.00"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 3
-          },
-          "info": "1B: biologia - Substitution for: Nowacki Arnold, Classroom: 19"
-        },
-        {
-          "lessons": {
-            "first": 2,
-            "last": 2
-          },
-          "info": "2A informatyka_2: informatyka - Substitution for: Czekaj Janusz, Classroom: inf2, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 3,
-            "last": 4
-          },
-          "info": "2G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
-        {
-          "lessons": {
-            "first": 5,
-            "last": 5
-          },
-          "info": "3G informatyka_2: informatyka - Substitution for: Tomczak Agnieszka, Classroom: 13B, zł. grup"
-        },
         {
           "lessons": {
             "first": 1,

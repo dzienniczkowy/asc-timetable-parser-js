@@ -46,7 +46,7 @@ export function parseSubstitutions(json: string): Substitutions {
     .toArray()
     .map((el) => ({
       name: cheerio('> .header', el).text(),
-      changes: cheerio('.change').toArray().map((changeEl) => {
+      changes: cheerio('.change', el).toArray().map((changeEl) => {
         const period = cheerio('> .period', changeEl).text().trim();
         let lessons: LessonRange | null = null;
         if (period !== 'whole day') {
