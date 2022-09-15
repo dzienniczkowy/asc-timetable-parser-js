@@ -8,6 +8,8 @@
     "build": "tsc",
     "lint": "eslint src/**/*.ts",
     "lint:fix": "eslint src/**/*.ts --fix",
+    "prepublishOnly": "npm run build",
+    "release": "release-it --only-version",
     "test": "mocha --reporter spec --require ts-node/register test/**/*.ts"
   },
   "author": "Dominik Korsa <dominik.korsa@gmail.com> (https://github.com/dominik-korsa)",
@@ -28,6 +30,7 @@
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
     "mocha": "^10.0.0",
+    "release-it": "^15.4.2",
     "ts-node": "^10.9.1"
   },
   "dependencies": {

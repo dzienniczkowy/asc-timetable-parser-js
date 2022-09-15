@@ -1,5 +1,5 @@
 import { load } from 'cheerio';
-import { defined, ifDefined, removePrefix } from './utils.js';
+import { defined, ifDefined, removePrefix } from './utils';
 import {
   Absence, LessonRange, Substitutions, SubstitutionSection,
 } from './types.js';
