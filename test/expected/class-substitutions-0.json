@@ -30,13 +30,23 @@
             "first": 3,
             "last": 3
           },
-          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła"
+          "info": "(historia i teraźniejszość) ➔ język polski - Substitution: (Dąbrowski Wawrzyniec) ➔ Mazurek Bogumiła",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "1D",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 0,
+            "last": 0
+          },
+          "info": "informatyka_1: informatyka - Adamski Bolek, Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "1E",
@@ -46,14 +56,16 @@
             "first": 5,
             "last": 5
           },
-          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz"
+          "info": "język polski - Substitution: (Szczepańska Wiesława) ➔ Kopeć Mateusz",
+          "cancelled": false
         },
         {
           "lessons": {
             "first": 6,
             "last": 6
           },
-          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta"
+          "info": "(język polski) ➔ historia - Substitution: (Szczepańska Wiesława) ➔ Piotrowska Marta",
+          "cancelled": false
         }
       ]
     },
@@ -65,20 +77,31 @@
             "first": 3,
             "last": 3
           },
-          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian"
+          "info": "(język polski) ➔ edukacja dla bezpieczeństwa - Substitution: (Szczepańska Wiesława) ➔ Lewandowski Maksymilian",
+          "cancelled": false
         },
         {
           "lessons": {
             "first": 4,
             "last": 4
           },
-          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina"
+          "info": "(język polski) ➔ matematyka - Substitution: (Szczepańska Wiesława) ➔ Grzelak Ewelina",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "2F",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 1,
+            "last": 1
+          },
+          "info": "język polski - Szczepańska Wiesława, Cancelled",
+          "cancelled": true
+        }
+      ]
     },
     {
       "name": "3A",
@@ -88,7 +111,8 @@
             "first": 4,
             "last": 4
           },
-          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja"
+          "info": "(wiedza o społeczeństwie) ➔ podstawy przedsiębiorczości - Substitution: (Dąbrowski Wawrzyniec) ➔ Witkowska Alicja",
+          "cancelled": false
         }
       ]
     },
@@ -100,13 +124,23 @@
             "first": 3,
             "last": 3
           },
-          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup"
+          "info": "grupa 2: informatyka - Substitution: (Adamski Bolek) ➔ Piasecka Dorota, zł. grup",
+          "cancelled": false
         }
       ]
     },
     {
       "name": "4G",
-      "changes": []
+      "changes": [
+        {
+          "lessons": {
+            "first": 1,
+            "last": 2
+          },
+          "info": "informatyka_2: informatyka - Adamski Bolek, Cancelled",
+          "cancelled": true
+        }
+      ]
     }
   ]
 }
