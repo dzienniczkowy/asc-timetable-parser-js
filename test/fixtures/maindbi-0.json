@@ -1,0 +1,118 @@
+{
+  "r": {
+    "type": "maindbi",
+    "dbid": "2022",
+    "tables": [
+      {
+        "id": "teachers",
+        "data_rows": [
+          {
+            "id": "-1",
+            "short": "Wierzbicka_W"
+          },
+          {
+            "id": "-2",
+            "short": "Błaszczyk_A"
+          },
+          {
+            "id": "-3",
+            "short": "Bednarek_M"
+          }
+        ],
+        "data_columns": [
+          "short"
+        ]
+      },
+      {
+        "id": "subjects",
+        "data_rows": [
+          {
+            "id": "-1",
+            "name": "wiedza o społeczeństwie",
+            "short": "WOS"
+          },
+          {
+            "id": "-2",
+            "name": "historia i teraźniejszość",
+            "short": "HIT"
+          },
+          {
+            "id": "-3",
+            "name": "biologia",
+            "short": "biologia"
+          }
+        ],
+        "data_columns": [
+          "name",
+          "short"
+        ]
+      },
+      {
+        "id": "classrooms",
+        "data_rows": [
+          {
+            "id": "-30",
+            "short": "Uniwersytet"
+          },
+          {
+            "id": "-31",
+            "short": "1"
+          },
+          {
+            "id": "-32",
+            "short": "01"
+          }
+        ],
+        "data_columns": [
+          "short"
+        ]
+      },
+      {
+        "id": "classes",
+        "data_rows": [
+          {
+            "id": "-40",
+            "name": "1A",
+            "short": "1A"
+          },
+          {
+            "id": "-41",
+            "name": "2B - mat. fiz. inf.",
+            "short": "2B"
+          },
+          {
+            "id": "-42",
+            "name": "3C 3C_integracja",
+            "short": "3C"
+          }
+        ],
+        "data_columns": [
+          "name",
+          "short"
+        ]
+      },
+      {
+        "id": "periods",
+        "data_rows": [
+          {
+            "id": "0",
+            "name": "0",
+            "starttime": "07:10",
+            "endtime": "07:55"
+          },
+          {
+            "id": "1",
+            "name": "Lekcja 1",
+            "starttime": "08:00",
+            "endtime": "08:45"
+          }
+        ],
+        "data_columns": [
+          "name",
+          "starttime",
+          "endtime"
+        ]
+      }
+    ]
+  }
+}
