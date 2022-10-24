@@ -15,7 +15,7 @@
   "author": "Dominik Korsa <dominik.korsa@gmail.com> (https://github.com/dominik-korsa)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wulkanowy/timetable-parser-js.git"
+    "url": "https://github.com/wulkanowy/asc-timetable-parser-js.git"
   },
   "license": "MIT",
   "devDependencies": {
