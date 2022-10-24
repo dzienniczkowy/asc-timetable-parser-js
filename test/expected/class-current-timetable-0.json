@@ -1,0 +1,109 @@
+{
+  "lessons": [
+    {
+      "type": "lesson",
+      "date": "2022-10-31",
+      "periodId": "1",
+      "startTime": "08:00",
+      "endTime": "09:45",
+      "subjectId": "-22",
+      "classIds": [
+        "-105"
+      ],
+      "groupNames": [],
+      "teacherIds": [
+        "-48"
+      ],
+      "classroomIds": [
+        "-28"
+      ],
+      "color": "#60FFC0",
+      "removed": false
+    },
+    {
+      "type": "lesson",
+      "date": "2022-10-31",
+      "periodId": "3",
+      "startTime": "10:00",
+      "endTime": "10:45",
+      "subjectId": "-2",
+      "classIds": [
+        "-105"
+      ],
+      "groupNames": [],
+      "teacherIds": [
+        "-161"
+      ],
+      "classroomIds": [
+        "-16"
+      ],
+      "color": null,
+      "removed": true
+    },
+    {
+      "type": "lesson",
+      "date": "2022-10-31",
+      "periodId": "4",
+      "startTime": "11:00",
+      "endTime": "11:45",
+      "subjectId": "-14",
+      "classIds": [
+        "-105"
+      ],
+      "groupNames": [],
+      "teacherIds": [
+        "-37"
+      ],
+      "classroomIds": [
+        "-12"
+      ],
+      "color": "#66FFFF",
+      "removed": false
+    },
+    {
+      "type": "lesson",
+      "date": "2022-10-31",
+      "periodId": "5",
+      "startTime": "12:00",
+      "endTime": "13:45",
+      "subjectId": "-43",
+      "classIds": [
+        "-105"
+      ],
+      "groupNames": [
+        "wychowanie fizyczne_ch"
+      ],
+      "teacherIds": [
+        "-74"
+      ],
+      "classroomIds": [
+        "-39"
+      ],
+      "color": "#003399",
+      "removed": false
+    },
+    {
+      "type": "lesson",
+      "date": "2022-10-31",
+      "periodId": "5",
+      "startTime": "12:00",
+      "endTime": "13:45",
+      "subjectId": "-43",
+      "classIds": [
+        "-107",
+        "-105"
+      ],
+      "groupNames": [
+        "wychowanie fizyczne_dz"
+      ],
+      "teacherIds": [
+        "-70"
+      ],
+      "classroomIds": [
+        "-64"
+      ],
+      "color": "#FF8080",
+      "removed": false
+    }
+  ]
+}

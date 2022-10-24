@@ -1,0 +1,151 @@
+{
+  "r": {
+    "ttitems": [
+      {
+        "type": "card",
+        "date": "2022-10-31",
+        "uniperiod": "1",
+        "starttime": "08:00",
+        "endtime": "09:45",
+        "subjectid": "-22",
+        "classids": [
+          "-105"
+        ],
+        "groupnames": [
+          ""
+        ],
+        "igroupid": "",
+        "teacherids": [
+          "-48"
+        ],
+        "classroomids": [
+          "-28"
+        ],
+        "colors": [
+          "#60FFC0"
+        ],
+        "durationperiods": 2
+      },
+      {
+        "type": "card",
+        "date": "2022-10-31",
+        "uniperiod": "3",
+        "starttime": "10:00",
+        "endtime": "10:45",
+        "subjectid": "-2",
+        "classids": [
+          "-105"
+        ],
+        "groupnames": [
+          ""
+        ],
+        "igroupid": "",
+        "teacherids": [
+          "-161"
+        ],
+        "classroomids": [
+          "-16"
+        ],
+        "colors": [],
+        "removed": true
+      },
+      {
+        "type": "card",
+        "date": "2022-10-31",
+        "uniperiod": "4",
+        "starttime": "11:00",
+        "endtime": "11:45",
+        "subjectid": "-14",
+        "classids": [
+          "-105"
+        ],
+        "groupnames": [
+          ""
+        ],
+        "igroupid": "",
+        "teacherids": [
+          "-37"
+        ],
+        "classroomids": [
+          "-12"
+        ],
+        "colors": [
+          "#66FFFF",
+          "#220000"
+        ]
+      },
+      {
+        "type": "card",
+        "date": "2022-10-31",
+        "uniperiod": "5",
+        "starttime": "12:00",
+        "endtime": "13:45",
+        "subjectid": "-43",
+        "classids": [
+          "-105"
+        ],
+        "groupnames": [
+          "wychowanie fizyczne_ch"
+        ],
+        "igroupid": "",
+        "teacherids": [
+          "-74"
+        ],
+        "classroomids": [
+          "-39"
+        ],
+        "colors": [
+          "#003399"
+        ],
+        "durationperiods": 2,
+        "cellSlices": "01",
+        "cellOrder": 1
+      },
+      {
+        "type": "card",
+        "date": "2022-10-31",
+        "uniperiod": "5",
+        "starttime": "12:00",
+        "endtime": "13:45",
+        "subjectid": "-43",
+        "classids": [
+          "-107",
+          "-105"
+        ],
+        "groupnames": [
+          "wychowanie fizyczne_dz"
+        ],
+        "igroupid": "",
+        "teacherids": [
+          "-70"
+        ],
+        "classroomids": [
+          "-64"
+        ],
+        "colors": [
+          "#FF8080"
+        ],
+        "durationperiods": 2,
+        "cellSlices": "10",
+        "cellOrder": 0
+      }
+    ],
+    "swapAxis": false,
+    "rights": {
+      "subjects": true,
+      "classes": true,
+      "teachers": true,
+      "classrooms": true,
+      "students": true,
+      "igroups": true,
+      "classroomsupervision": false,
+      "teachers_summary": true,
+      "classes_summary": true,
+      "classrooms_summary": true,
+      "igroups_summary": true
+    },
+    "_changeEvents": {
+      "dbi:global_settings": 5037479
+    }
+  }
+}

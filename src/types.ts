@@ -57,3 +57,18 @@ export interface MainDbi {
   classes: Record<string, Class>;
   periods: Record<string, Period>;
 }
+
+export interface Lesson {
+  type: 'lesson';
+  date: string;
+  periodId: string;
+  startTime: string;
+  endTime: string;
+  subjectId: string;
+  classIds: string[];
+  groupNames: string[];
+  teacherIds: string[];
+  classroomIds: string[];
+  color: string | null;
+  removed: boolean;
+}
