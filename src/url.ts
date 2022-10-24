@@ -27,3 +27,27 @@ export const getMainDbiBody = (schoolYear: number) => ({
   ],
   __gsh: '00000000',
 });
+
+export const getCurrentTimetableBody = (
+  schoolYear: number,
+  dateFrom: string,
+  dateTo: string,
+  table: 'classes' | 'teachers' | 'classrooms' | 'subjects',
+  id: string,
+) => ({
+  __args: [
+    null,
+    {
+      year: schoolYear,
+      datefrom: dateFrom,
+      dateto: dateTo,
+      table,
+      id,
+      showColors: true,
+      showIgroupsInClasses: false,
+      showOrig: true,
+      log_module: 'CurrentTTView',
+    },
+  ],
+  __gsh: '00000000',
+});

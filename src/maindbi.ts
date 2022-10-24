@@ -1,4 +1,4 @@
-import { MainDbi } from "./types.js";
+import { MainDbi } from './types.js';
 
 interface MainDbiTableRows {
   teachers: {
@@ -45,7 +45,7 @@ interface MainDbiResponse {
 export function parseMainDbi(json: string): MainDbi {
   const body = JSON.parse(json);
   if (body === null || typeof body !== 'object') throw new Error('maindbi response should be an object');
-  if (body.r === null || typeof body.r !== 'object') throw new Error('maindbi response should have an object field "r"');
+  if (body.r === null || typeof body.r !== 'object') throw new Error('maindbi response should have a field "r"');
   if (body.r.type !== 'maindbi') throw new Error('"r.type" should be equal to "maindbi" in maindbi response');
   const response = body.r as MainDbiResponse;
   const result: MainDbi = {
@@ -54,7 +54,7 @@ export function parseMainDbi(json: string): MainDbi {
     subjects: {},
     teachers: {},
     periods: {},
-  }
+  };
 
   const mappers: {
     [ID in keyof MainDbiTableRows]: (row: MainDbiTableRows[ID]) => MainDbi[ID][string];
