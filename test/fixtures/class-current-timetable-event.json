@@ -1,0 +1,43 @@
+{
+  "r": {
+    "ttitems": [
+      {
+        "type": "event",
+        "uniperiod": "ad",
+        "date": "2022-11-01",
+        "starttime": "00:00",
+        "endtime": "24:00",
+        "durationperiods": null,
+        "subjectid": "",
+        "classids": [],
+        "groupnames": [
+          ""
+        ],
+        "studentids": null,
+        "igroupid": "",
+        "teacherids": [],
+        "classroomids": [],
+        "eventid": "2022-11-01:215A97CFC43A0D30",
+        "name": "Święto: Wszystkich Świętych",
+        "main": true
+      }
+    ],
+    "swapAxis": false,
+    "rights": {
+      "subjects": true,
+      "classes": true,
+      "teachers": true,
+      "classrooms": true,
+      "students": true,
+      "igroups": true,
+      "classroomsupervision": false,
+      "teachers_summary": true,
+      "classes_summary": true,
+      "classrooms_summary": true,
+      "igroups_summary": true
+    },
+    "_changeEvents": {
+      "dbi:global_settings": 5037479
+    }
+  }
+}
